@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>metadata</key>
+			<dict>
+				<key>title</key>
+				<string>Potatso Lite</string>
+				<key>subtitle</key>
+				<string>Potatso Lab LTD</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-version</key>
+				<string>2.4.0</string>
+				<key>bundle-identifier</key>
+				<string>com.touchingapp.potatsolite</string>
+			</dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>url</key>
+					<string>https://github.com/poniteru/gitpageipadowntest2/releases/download/v1.0/potatsolite.ipa</string>
+					<key>kind</key>
+					<string>software-package</string>
+				</dict>
+				<dict>
+					<key>need-shine</key>
+					<false/>
+					<key>url</key>
+					<string>下载时大图</string>
+					<key>kind</key>
+					<string>full-size-image</string>
+				</dict>
+				<dict>
+					<key>need-shine</key>
+					<false/>
+					<key>url</key>
+					<string>下载时小图</string>
+					<key>kind</key>
+					<string>software-package</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
